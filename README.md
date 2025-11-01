@@ -121,6 +121,7 @@ Imitation Accuracy (IA) – Similarity score between action distributions
 Generalization Index (GI) – Performance on unseen initial states
 
 ## Directory Structure
+```
 LfD/
 ├── lfd_demo/                 # ROS 2 package for demonstration collection
 ├── lfd_policy/               # ROS 2 package for policy deployment
@@ -131,6 +132,7 @@ LfD/
 ├── docs/                     # Research documentation
 ├── requirements.txt
 └── README.md
+```
 
 ## 🧩 Research Objectives
 
