@@ -144,6 +144,20 @@ Quantitatively evaluate learned behaviors across tasks
 
 Contribute an open-source framework for future LfD research
 
+## 🧠 Extended Project Vision
+
+Beyond simply replicating human demonstrations, the system aims to optimize the learned behavior. This means the robot will not only imitate but also generalize and improve upon the demonstrated task by discovering the most efficient, physically valid, and naturally feasible way to achieve the goal — all while adhering strictly to the laws of physics, causality, and natural constraints inherent to the environment.
+
+The idea is to develop a framework where the robot:
+
+Learns from human demonstrations.
+
+Evaluates possible action trajectories within the learned policy space.
+
+Simulates outcomes to identify the most energy-efficient and time-efficient strategy.
+
+Ensures every solution respects physical realism and environmental feasibility.
+
 ## 📚 Citation
 
 If you use this repository in your research, please cite:
